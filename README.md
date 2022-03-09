@@ -9,5 +9,3 @@ Current Role
 Primarily involved in development of Java Microservices using Spring Boot Framework.
 Contributed to our Single Page Application development written with AngularJS
 More recently have contributed to an embedded project using C++.
-
-Personal Projects
